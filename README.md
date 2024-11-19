@@ -1,4 +1,4 @@
-# Training Deep-Learning Models on ARC4 using Multiple GPUs
+# Deep Learning on ARC4 using Multiple GPUs
 
 ## Introduction
 
